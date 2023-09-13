@@ -7,9 +7,9 @@ Formado em engenharia Mecânica, possuo 25 anos e um fascínio pelo mundo tecnol
 # Habilidades
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" height="60"/> <img src="https://www.svgrepo.com/show/374159/vba.svg" width="60" height="60"/>
 
-#Contato
+# Contato
 <div>
 
-<a href="https://www.linkedin.com/in/viniciusaziani/"
+<a href="https://www.linkedin.com/in/viniciusaziani/">
     <img src="https://img.shields.io/badge/LinkedIn-%230096FF?logo=linkedin">
  </a>
